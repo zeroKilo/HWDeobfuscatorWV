@@ -1,0 +1,14 @@
+{
+  "startaddress" : "0x010493F0",
+  "rebuild" : 1,
+  "inject" : 1,
+  "hints": [
+    {
+      "address" : "0x2bd57c5",
+      "exits" : [
+        "0x104940B",
+        "0x10452DB"
+      ]
+    }
+  ]
+}
